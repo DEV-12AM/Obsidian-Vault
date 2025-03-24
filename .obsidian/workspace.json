@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Routine.md",
+                "file": "Capstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Routine"
+              "title": "Capstone"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "succesfully",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routine.md",
+                "file": "Capstone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Routine"
+              "title": "Backlinks for Capstone"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routine.md",
+                "file": "Capstone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Routine"
+              "title": "Outgoing links from Capstone"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routine.md",
+                "file": "Capstone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Routine"
+              "title": "Outline of Capstone"
             }
           }
         ],
@@ -169,14 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af882470ec2b318d",
+  "active": "8a82606e4d8e4b96",
   "lastOpenFiles": [
     "New Bitmap Image.bmp",
     "Untitled 2.md",
     "you",
     "Untitled 1.md",
     "Untitled.md",
-    "Routine.md",
+    "Capstone.md",
     "Untitled",
     "Filellelele",
     "Welcome.md",

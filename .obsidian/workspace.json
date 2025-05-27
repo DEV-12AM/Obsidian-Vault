@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Say hello"
             }
+          },
+          {
+            "id": "b51ffab161f9b39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Say hello.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Say hello"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Say hello.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Say hello"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Say hello.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Say hello"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -168,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c32dd8921c4fea63",
+  "active": "e55a8baebb6e938a",
   "lastOpenFiles": [
-    "Say hello.md"
+    "Say hello.md",
+    "Untitled.md"
   ]
 }

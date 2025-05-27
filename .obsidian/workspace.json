@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "14bda8bb217649b6",
     "type": "split",
     "children": [
@@ -15,6 +16,27 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+    "id": "1aaf89cbd69a31b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f14cd8fa0401ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af882470ec2b318d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capstone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capstone"
+>>>>>>> origin/master
             }
           }
         ]
@@ -23,6 +45,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "27b763735b05765e",
     "type": "split",
     "children": [
@@ -32,6 +55,17 @@
         "children": [
           {
             "id": "bb04b12682d69e3d",
+=======
+    "id": "d0447fb8303ff0b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd707e6fb05d4698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72fff230ee544be3",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +78,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e24b18a020c21c0a",
+=======
+            "id": "8a82606e4d8e4b96",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "succesfully",
+>>>>>>> origin/master
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +103,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "6db80f5592c066db",
+=======
+            "id": "c7adff75b779a505",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,13 +116,19 @@
               "title": "Bookmarks"
             }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 1
+>>>>>>> origin/master
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "466b20028fb44006",
     "type": "split",
     "children": [
@@ -86,10 +138,25 @@
         "children": [
           {
             "id": "c87ad7962a551530",
+=======
+    "id": "6c35ad8a1dc5f6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ee9d6f3730ac07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbe1e2458f92d6e",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Capstone.md",
+>>>>>>> origin/master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,36 +166,63 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks"
             }
           },
           {
             "id": "c2e898a58496ea1f",
+=======
+              "title": "Backlinks for Capstone"
+            }
+          },
+          {
+            "id": "e17e66cba65ca216",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Capstone.md",
+>>>>>>> origin/master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links"
             }
           },
           {
             "id": "e7f0e36d716ab98e",
+=======
+              "title": "Outgoing links from Capstone"
+            }
+          },
+          {
+            "id": "3942dec10f62cc59",
+>>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
+<<<<<<< HEAD
                 "useHierarchy": true
+=======
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+>>>>>>> origin/master
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
+<<<<<<< HEAD
             "id": "40bf524fe3cb25e9",
             "type": "leaf",
             "state": {
@@ -139,6 +233,24 @@
             }
           }
         ]
+=======
+            "id": "665d4718887c36b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Capstone.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Capstone"
+            }
+          }
+        ],
+        "currentTab": 3
+>>>>>>> origin/master
       }
     ],
     "direction": "horizontal",
@@ -155,11 +267,36 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "bb82f0f181640be5",
   "lastOpenFiles": [
     "main",
     "Obsidian-Notes/Welcome.md",
     "Obsidian-Notes/Capstone.md",
     "Obsidian-Notes"
+=======
+  "active": "8a82606e4d8e4b96",
+  "lastOpenFiles": [
+    "New Bitmap Image.bmp",
+    "Untitled 2.md",
+    "you",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Capstone.md",
+    "Untitled",
+    "Filellelele",
+    "Welcome.md",
+    "Obsidian-Notes/Welcome.md",
+    "Obsidian-Notes/Filellelele",
+    "Obsidian-Notes",
+    "index 1.html",
+    "index.html",
+    "hello.cs",
+    "Untitled new note.md",
+    "New Note.md",
+    "First note at school.md",
+    "Untitled 1",
+    "2025-03-19.md"
+>>>>>>> origin/master
   ]
 }
